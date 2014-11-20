@@ -1,0 +1,4 @@
+DirectoryIndex disabled
+DirectoryIndex index.py index.html index.php index.HTML
+Order Allow,Deny
+Allow from all
